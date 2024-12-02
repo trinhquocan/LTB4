@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="incorrect_toast">Ban da tra loi Sai</string>
+    <string name="correct_toast">Ban da tra loi Dung</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="Question1">1 + 2 = 3?</string>
+    <string name="Question2">2 * 3 = 8?</string>
+    <string name="Question3">9 / 2 = 4?</string>
+    <string name="Question4">4 + 2 = 6?</string>
+    <string name="Question5">10 - 5 = 30?</string>
+
+    <string name="ConfirmQuestion">Are you sure you want to do this ?</string>
+    <string name="ShowAnswer">Show Answer</string>
+    <string name="cheat_button">Cheat</string>
+    <string name="toast_cheating">Ban da an gian</string>
+</resources>

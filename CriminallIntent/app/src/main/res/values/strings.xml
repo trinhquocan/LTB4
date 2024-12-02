@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CriminallIntent</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Title">TITLE</string>
+    <string name="CrimeTitle">Enter a title for the crime</string>
+    <string name="Details">DETAILS</string>
+    <string name="Solved">Solved</string>
+    <string name="DetailsButton">SUN NOV 10 17:02 EST 2024</string>
+</resources>

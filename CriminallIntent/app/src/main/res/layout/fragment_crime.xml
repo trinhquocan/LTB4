@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".CrimeFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/TitleTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:text="@string/Title"
+        android:textSize="25dp"
+        style="?android:listSeparatorTextViewStyle"
+        android:textStyle="bold" />
+
+
+    <EditText
+        android:id="@+id/CrimeTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:hint="@string/CrimeTitle"
+        android:layout_marginRight="16dp"
+        android:layout_marginLeft="16dp"
+        android:textSize="22dp" />
+
+
+    <TextView
+        android:id="@+id/DetailsTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:text="@string/Details"
+        android:textSize="25dp"
+        style="?android:listSeparatorTextViewStyle"
+        android:textStyle="bold" />
+
+
+
+    <Button
+        android:id="@+id/DetailsButton"
+        android:layout_width="373dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="15dp"
+        android:text="@string/DetailsButton"
+        android:textSize="17dp" />
+
+    <CheckBox
+        android:id="@+id/SolvedCheckBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Solved" />
+
+</LinearLayout>
